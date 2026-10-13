@@ -15,7 +15,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - 2/2 Basic HTML content
 - 1/1 Basic CSS styling
 - */1 Advanced feature
-- */2 Responsive layout
+- 2/2 Responsive layout
 - */1 Passes validation checks
 - */2 Embraces spirit of the assignment
 
@@ -32,11 +32,11 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 -Modified padding/margins for readability, specifically for contact page
 -Modified link colors (including hover), text colors
 -Added custom Google font fonts
+-Responsive images on first page, with greyscale filter until hovered over.
 
 
 (c) Advanced features
 -Included a navigation bar
-
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
@@ -50,7 +50,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 https://developers.google.com/fonts/docs/material_icons
 https://www.youtube.com/watch?v=iIqgW-stZmE
-https://www.w3schools.com/ and their youtube tutorials
+https://www.w3schools.com/ and their youtube tutorials for responsive design, nav bar, basically everything...
 https://www.youtube.com/watch?v=JNFdCgmMkPk this video for adding a footer
 https://www.freecodecamp.org/news/mailto-link-how-to-make-an-html-email-link-example-code/ contact page
 https://www.youtube.com/watch?v=BsoSDecjqIE how to make a rectangle
