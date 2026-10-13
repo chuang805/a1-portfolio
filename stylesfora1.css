@@ -7,14 +7,10 @@ body {
 body {
     background-color: #f4f4f4;
 }
-h1 {
+h1, h2, h3 {
     color: rgb(24, 24, 49);
-    margin-bottom: 0px;
 }
 
-h2 {
-    margin-top: 0px;
-}
 
 /* for general links, will be modified for indiv buttons + nav bar */
 a {
@@ -77,6 +73,30 @@ a:hover {
 .nav-links a:hover {
   color: rgb(24, 24, 49);
 }
+
+/* Work Samples */
+.graphics-previews {
+  display: flex;
+  flex-wrap: wrap;       /* allows wrapping on small screens */
+  justify-content: center;
+  gap: 40px;             /* spacing between images */
+  padding: 20px 0;
+}
+
+.graphics-previews img {
+  width: 350px;
+  height: 200px;
+  object-fit: cover;
+  max-width: 100%;       /* responsive scaling */
+  filter: grayscale(100);
+  transition: filter 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+}
+
+.graphics-previews img:hover{
+    filter:grayscale(0);
+}
+
 /* Contact page */
 .page-center {
     display: flex;
@@ -108,7 +128,6 @@ a:hover {
     object-fit: cover; 
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
 }
-
 
 .bold-link {
     font-weight: bold;
