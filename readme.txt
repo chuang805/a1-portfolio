@@ -14,7 +14,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - 1/1 Readme
 - 2/2 Basic HTML content
 - 1/1 Basic CSS styling
-- */1 Advanced feature
+- 1/1 Advanced feature
 - 2/2 Responsive layout
 - */1 Passes validation checks
 - 2/2 Embraces spirit of the assignment
@@ -36,7 +36,9 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (c) Advanced features
--Included a navigation bar
+-Included a navigation bar, turns into stacked bar for mobile.
+-Leveraged nested selectors to specify format in my graphics previews and nav bar. 
+-Added audio button to About Me, with text that says audio is unsupported if it doesn't work.
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
@@ -49,13 +51,15 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
 https://developers.google.com/fonts/docs/material_icons
+https://fonts.google.com/?preview.script=Latn
 https://www.youtube.com/watch?v=iIqgW-stZmE
-https://www.w3schools.com/ and their youtube tutorials for responsive design, nav bar, basically everything...
+https://www.w3schools.com/ and their youtube tutorials for responsive design, nav bar, music, basically everything...
 https://www.youtube.com/watch?v=JNFdCgmMkPk this video for adding a footer
 https://www.freecodecamp.org/news/mailto-link-how-to-make-an-html-email-link-example-code/ contact page
 https://www.youtube.com/watch?v=BsoSDecjqIE how to make a rectangle
 I used Copilot to assist with my responsive design at the bottom of my css, with my own touchups for specific margin sizes.
-It wouldn't understand what looked good and what was too much space, so I had to manually adjust and remove some features.
+- It wouldn't understand what looked good and what was too much space, so I had to manually adjust and remove some features.
+- It also wouldn't catch when things were slightly off-centered, so I had to keep adjusting the code myself to look good on both mobile and desktop.
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 N/A
