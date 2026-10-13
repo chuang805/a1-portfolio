@@ -17,7 +17,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 - */1 Advanced feature
 - 2/2 Responsive layout
 - */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
@@ -44,7 +44,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
-
+11 hrs
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)

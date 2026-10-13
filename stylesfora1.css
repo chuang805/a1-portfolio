@@ -48,6 +48,7 @@ a:hover {
 /* Nav bar */
 .navbar {
   display: flex;
+  justify-content: center;
   align-items: center;
   background-color: #394089;
   padding: 15px 30px;
