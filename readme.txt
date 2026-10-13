@@ -13,7 +13,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 */10
 - 1/1 Readme
 - 2/2 Basic HTML content
-- */1 Basic CSS styling
+- 1/1 Basic CSS styling
 - */1 Advanced feature
 - */2 Responsive layout
 - */1 Passes validation checks
@@ -22,18 +22,20 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
--Included footer w/ external link
--Included Google Fonts icons in buttons
 -Appropriate headings and paragraphs
 -Links to external pages
-
+-Multiple pages + nav bar
+-Included footer w/ external link
+-Included Google Fonts icons in buttons
 
 (b) CSS features
--
+-Modified padding/margins for readability, specifically for contact page
+-Modified link colors (including hover), text colors
+-Added custom Google font fonts
 
 
 (c) Advanced features
--Included a nav bar
+-Included a navigation bar
 
 
 
