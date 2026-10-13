@@ -27,7 +27,7 @@ a:hover {
     text-align: center;
     gap: 6px;
     font-size: 1rem; /* scales with screen */
-    flex-wrap: flex;
+    flex-wrap: nowrap;
     padding: 12px 24px;
     background-color: #394089;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
@@ -50,7 +50,7 @@ a:hover {
     display: flex;
     justify-content: left; /* or center if you want */
     gap: 20px;             /* <-- controls spacing between buttons */
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     margin: 20px 0;
 }
 
