@@ -6,9 +6,71 @@ h1 {
 }
 .button-link {
     display: inline-block;
+    text-align: center;
     padding: 12px 24px;
     background-color: #007bff;
     color: white;
     text-decoration: none;
     border-radius: 4px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between; /* Pushes logo to left, links to right */
+  align-items: center;
+  background-color: #333; /* Dark gray background */
+  padding: 15px 30px;
+}
+
+/* Make the list items sit in a single horizontal row */
+.nav-links {
+  display: flex;
+  list-style: none; /* Removes the default bullet points */
+}
+
+/* Add spacing between the links */
+.nav-links li {
+  padding: 0 15px;
+}
+
+/* Style the individual links inside the list */
+.nav-links a {
+  color: white;
+  text-decoration: none; /* Removes the underline */
+  font-size: 18px;
+  transition: color 0.3s ease; /* Smooth fade effect on hover */
+}
+
+/* Visual change when hovering over links */
+.nav-links a:hover {
+  color: #ff9900; /* Changes to a vibrant accent color on hover */
+}
+
+.page-center {
+    display: flex;
+    justify-content: center;   /* horizontal centering */
+    align-items: center;       /* vertical centering */
+    height: calc(100vh - 80px); /* full page height minus navbar */
+    margin-top: 10px;          /* extra breathing room */
+}
+
+.contact-me {
+    width: 400px;
+    height: 300px;
+    background-color: #3498db;
+    color: white;
+    border: 2px solid #2980b9;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;    
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+footer {
+    text-align: center;
+    padding: 20px 0;
 }

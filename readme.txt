@@ -33,7 +33,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 (c) Advanced features
--
+-Included a nav bar
 
 
 
@@ -50,7 +50,8 @@ https://developers.google.com/fonts/docs/material_icons
 https://www.youtube.com/watch?v=iIqgW-stZmE
 https://www.w3schools.com/ and their youtube tutorials
 https://www.youtube.com/watch?v=JNFdCgmMkPk this video for adding a footer
-
+https://www.freecodecamp.org/news/mailto-link-how-to-make-an-html-email-link-example-code/ contact page
+https://www.youtube.com/watch?v=BsoSDecjqIE how to make a rectangle
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 N/A
