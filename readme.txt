@@ -12,7 +12,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 */10
 - 1/1 Readme
-- */2 Basic HTML content
+- 2/2 Basic HTML content
 - */1 Basic CSS styling
 - */1 Advanced feature
 - */2 Responsive layout
@@ -22,15 +22,18 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
-
+-Included footer w/ external link
+-Included Google Fonts icons in buttons
+-Appropriate headings and paragraphs
+-Links to external pages
 
 
 (b) CSS features
-
+-
 
 
 (c) Advanced features
-
+-
 
 
 
@@ -43,11 +46,14 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-
+https://developers.google.com/fonts/docs/material_icons
+https://www.youtube.com/watch?v=iIqgW-stZmE
+https://www.w3schools.com/ and their youtube tutorials
+https://www.youtube.com/watch?v=JNFdCgmMkPk this video for adding a footer
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+N/A
 
 
 7. Is there anything special we need to know in order to run your code?
