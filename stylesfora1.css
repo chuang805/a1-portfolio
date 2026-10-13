@@ -142,3 +142,63 @@ footer {
     text-align: center;
     padding: 20px 0;
 }
+
+/* Desktop spacing */
+body {
+    padding: 0 20px; /* comfortable side margins on laptop */
+}
+
+h1, h2, h3, p {
+    margin-left: 0;
+    margin-right: 0;
+    text-align: left; /* restore desktop alignment */
+}
+
+.bold-link {
+    display: inline-block; /* normal desktop behavior */
+}
+
+
+@media (max-width: 600px) {
+
+    /* Center all text elements */
+    h1, h2, h3, p, a {
+        text-align: center;
+    }
+
+    /* Center block-level elements */
+    .button-link,
+    .graphics-previews img,
+    .contact-me {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* Center flex containers */
+    .graphics-previews,
+    .button-container {
+        justify-content: center;
+    }
+
+    /* Make buttons stack + center */
+    .button-link {
+        display: block;
+        width: fit-content;
+        margin: 12px auto;
+    }
+
+    /* Add comfortable side padding */
+    body {
+        padding: 0 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .bold-link {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: fit-content;
+        text-align: center;
+    }
+}

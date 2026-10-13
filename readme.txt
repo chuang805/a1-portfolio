@@ -54,6 +54,8 @@ https://www.w3schools.com/ and their youtube tutorials for responsive design, na
 https://www.youtube.com/watch?v=JNFdCgmMkPk this video for adding a footer
 https://www.freecodecamp.org/news/mailto-link-how-to-make-an-html-email-link-example-code/ contact page
 https://www.youtube.com/watch?v=BsoSDecjqIE how to make a rectangle
+I used Copilot to assist with my responsive design at the bottom of my css, with my own touchups for specific margin sizes.
+It wouldn't understand what looked good and what was too much space, so I had to manually adjust and remove some features.
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 N/A
