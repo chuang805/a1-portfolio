@@ -9,7 +9,13 @@ body {
 }
 h1 {
     color: rgb(24, 24, 49);
+    margin-bottom: 0px;
 }
+
+h2 {
+    margin-top: 0px;
+}
+
 /* for general links, will be modified for indiv buttons + nav bar */
 a {
     color: #394089;
